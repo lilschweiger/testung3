@@ -242,6 +242,7 @@ img {
 }
 
 .covered {
+  display: none;
   background-color: black;
   position: absolute;
   z-index: 1;
